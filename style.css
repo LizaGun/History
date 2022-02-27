@@ -1,1 +1,13 @@
+.people {
+    display: flex;
+    flex-wrap: wrap;
+}
+header {
+    text-align: center;
+}
+
+.French{
+    display: flex;
+    flex-wrap: wrap;
+}
 
